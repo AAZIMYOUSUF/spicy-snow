@@ -6,3 +6,4 @@ shapely
 hyp3_sdk
 asf_search
 matplotlib
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
